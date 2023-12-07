@@ -1,0 +1,23 @@
+{
+  "name": "szlaufai/k3cloud",
+  "description": "This is KingDee PHP SDK",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Kingdeephp\\K3cloud\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "szlaufai",
+      "email": "szlaufai@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php" : ">=7.2",
+    "guzzlehttp/guzzle": "^6.3",
+    "monolog/monolog": "^2.0"
+  }
+}
