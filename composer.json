@@ -1,5 +1,5 @@
 {
-  "name": "szlaufai/k3cloud",
+  "name": "lhyaax/k3cloud",
   "description": "This is KingDee PHP SDK",
   "type": "library",
   "license": "MIT",
@@ -10,8 +10,8 @@
   },
   "authors": [
     {
-      "name": "szlaufai",
-      "email": "szlaufai@gmail.com"
+      "name": "lhyaax@gmail.com",
+      "email": "lhyaax@gmail.com"
     }
   ],
   "minimum-stability": "dev",
